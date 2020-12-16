@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clock-watcher/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/clock-watcher/static/js/main.bc60b91a.chunk.js",
+    "main.js.map": "/clock-watcher/static/js/main.bc60b91a.chunk.js.map",
+    "runtime-main.js": "/clock-watcher/static/js/runtime-main.321b8195.js",
+    "runtime-main.js.map": "/clock-watcher/static/js/runtime-main.321b8195.js.map",
+    "static/js/2.7b30a9d1.chunk.js": "/clock-watcher/static/js/2.7b30a9d1.chunk.js",
+    "static/js/2.7b30a9d1.chunk.js.map": "/clock-watcher/static/js/2.7b30a9d1.chunk.js.map",
+    "static/js/3.1024ec52.chunk.js": "/clock-watcher/static/js/3.1024ec52.chunk.js",
+    "static/js/3.1024ec52.chunk.js.map": "/clock-watcher/static/js/3.1024ec52.chunk.js.map",
+    "index.html": "/clock-watcher/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/clock-watcher/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7b30a9d1.chunk.js.LICENSE.txt": "/clock-watcher/static/js/2.7b30a9d1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/clock-watcher/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.321b8195.js",
+    "static/js/2.7b30a9d1.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.bc60b91a.chunk.js"
+  ]
+}
